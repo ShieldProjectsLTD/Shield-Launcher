@@ -1,0 +1,10 @@
+{
+    "title": "Добро пожаловать в Лаунчер!",
+    "label": "Seleвапther language!",
+    "about": "О Лаунчере",
+    "home": "Главная",
+    "user": "Авторизован: {{name}}",
+    "menubar-leading-menu": "Меню",
+    "menubar-leading-settings": "Настройки",
+    "menubar-leading-help": "Помощь"
+}
